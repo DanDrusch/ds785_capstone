@@ -1,0 +1,4687 @@
+{
+  "rate_schedule": {
+    "1": {
+      "Weekday": [
+        "Jan Weekday HS0",
+        "Jan Weekday HS1",
+        "Jan Weekday HS2",
+        "Jan Weekday HS3",
+        "Jan Weekday HS4",
+        "Jan Weekday HS5",
+        "Jan Weekday HS6",
+        "Jan Weekday HS7",
+        "Jan Weekday HS8",
+        "Jan Weekday HS9",
+        "Jan Weekday HS10",
+        "Jan Weekday HS11",
+        "Jan Weekday HS12",
+        "Jan Weekday HS13",
+        "Jan Weekday HS14",
+        "Jan Weekday HS15",
+        "Jan Weekday HS16",
+        "Jan Weekday HS17",
+        "Jan Weekday HS18",
+        "Jan Weekday HS19",
+        "Jan Weekday HS20",
+        "Jan Weekday HS21",
+        "Jan Weekday HS22",
+        "Jan Weekday HS23"
+      ],
+      "Weekend": [
+        "Jan Weekend HS0",
+        "Jan Weekend HS1",
+        "Jan Weekend HS2",
+        "Jan Weekend HS3",
+        "Jan Weekend HS4",
+        "Jan Weekend HS5",
+        "Jan Weekend HS6",
+        "Jan Weekend HS7",
+        "Jan Weekend HS8",
+        "Jan Weekend HS9",
+        "Jan Weekend HS10",
+        "Jan Weekend HS11",
+        "Jan Weekend HS12",
+        "Jan Weekend HS13",
+        "Jan Weekend HS14",
+        "Jan Weekend HS15",
+        "Jan Weekend HS16",
+        "Jan Weekend HS17",
+        "Jan Weekend HS18",
+        "Jan Weekend HS19",
+        "Jan Weekend HS20",
+        "Jan Weekend HS21",
+        "Jan Weekend HS22",
+        "Jan Weekend HS23"
+      ]
+    },
+    "2": {
+      "Weekday": [
+        "Feb Weekday HS0",
+        "Feb Weekday HS1",
+        "Feb Weekday HS2",
+        "Feb Weekday HS3",
+        "Feb Weekday HS4",
+        "Feb Weekday HS5",
+        "Feb Weekday HS6",
+        "Feb Weekday HS7",
+        "Feb Weekday HS8",
+        "Feb Weekday HS9",
+        "Feb Weekday HS10",
+        "Feb Weekday HS11",
+        "Feb Weekday HS12",
+        "Feb Weekday HS13",
+        "Feb Weekday HS14",
+        "Feb Weekday HS15",
+        "Feb Weekday HS16",
+        "Feb Weekday HS17",
+        "Feb Weekday HS18",
+        "Feb Weekday HS19",
+        "Feb Weekday HS20",
+        "Feb Weekday HS21",
+        "Feb Weekday HS22",
+        "Feb Weekday HS23"
+      ],
+      "Weekend": [
+        "Feb Weekend HS0",
+        "Feb Weekend HS1",
+        "Feb Weekend HS2",
+        "Feb Weekend HS3",
+        "Feb Weekend HS4",
+        "Feb Weekend HS5",
+        "Feb Weekend HS6",
+        "Feb Weekend HS7",
+        "Feb Weekend HS8",
+        "Feb Weekend HS9",
+        "Feb Weekend HS10",
+        "Feb Weekend HS11",
+        "Feb Weekend HS12",
+        "Feb Weekend HS13",
+        "Feb Weekend HS14",
+        "Feb Weekend HS15",
+        "Feb Weekend HS16",
+        "Feb Weekend HS17",
+        "Feb Weekend HS18",
+        "Feb Weekend HS19",
+        "Feb Weekend HS20",
+        "Feb Weekend HS21",
+        "Feb Weekend HS22",
+        "Feb Weekend HS23"
+      ]
+    },
+    "3": {
+      "Weekday": [
+        "Mar Weekday HS0",
+        "Mar Weekday HS1",
+        "Mar Weekday HS2",
+        "Mar Weekday HS3",
+        "Mar Weekday HS4",
+        "Mar Weekday HS5",
+        "Mar Weekday HS6",
+        "Mar Weekday HS7",
+        "Mar Weekday HS8",
+        "Mar Weekday HS9",
+        "Mar Weekday HS10",
+        "Mar Weekday HS11",
+        "Mar Weekday HS12",
+        "Mar Weekday HS13",
+        "Mar Weekday HS14",
+        "Mar Weekday HS15",
+        "Mar Weekday HS16",
+        "Mar Weekday HS17",
+        "Mar Weekday HS18",
+        "Mar Weekday HS19",
+        "Mar Weekday HS20",
+        "Mar Weekday HS21",
+        "Mar Weekday HS22",
+        "Mar Weekday HS23"
+      ],
+      "Weekend": [
+        "Mar Weekend HS0",
+        "Mar Weekend HS1",
+        "Mar Weekend HS2",
+        "Mar Weekend HS3",
+        "Mar Weekend HS4",
+        "Mar Weekend HS5",
+        "Mar Weekend HS6",
+        "Mar Weekend HS7",
+        "Mar Weekend HS8",
+        "Mar Weekend HS9",
+        "Mar Weekend HS10",
+        "Mar Weekend HS11",
+        "Mar Weekend HS12",
+        "Mar Weekend HS13",
+        "Mar Weekend HS14",
+        "Mar Weekend HS15",
+        "Mar Weekend HS16",
+        "Mar Weekend HS17",
+        "Mar Weekend HS18",
+        "Mar Weekend HS19",
+        "Mar Weekend HS20",
+        "Mar Weekend HS21",
+        "Mar Weekend HS22",
+        "Mar Weekend HS23"
+      ]
+    },
+    "4": {
+      "Weekday": [
+        "Apr Weekday HS0",
+        "Apr Weekday HS1",
+        "Apr Weekday HS2",
+        "Apr Weekday HS3",
+        "Apr Weekday HS4",
+        "Apr Weekday HS5",
+        "Apr Weekday HS6",
+        "Apr Weekday HS7",
+        "Apr Weekday HS8",
+        "Apr Weekday HS9",
+        "Apr Weekday HS10",
+        "Apr Weekday HS11",
+        "Apr Weekday HS12",
+        "Apr Weekday HS13",
+        "Apr Weekday HS14",
+        "Apr Weekday HS15",
+        "Apr Weekday HS16",
+        "Apr Weekday HS17",
+        "Apr Weekday HS18",
+        "Apr Weekday HS19",
+        "Apr Weekday HS20",
+        "Apr Weekday HS21",
+        "Apr Weekday HS22",
+        "Apr Weekday HS23"
+      ],
+      "Weekend": [
+        "Apr Weekend HS0",
+        "Apr Weekend HS1",
+        "Apr Weekend HS2",
+        "Apr Weekend HS3",
+        "Apr Weekend HS4",
+        "Apr Weekend HS5",
+        "Apr Weekend HS6",
+        "Apr Weekend HS7",
+        "Apr Weekend HS8",
+        "Apr Weekend HS9",
+        "Apr Weekend HS10",
+        "Apr Weekend HS11",
+        "Apr Weekend HS12",
+        "Apr Weekend HS13",
+        "Apr Weekend HS14",
+        "Apr Weekend HS15",
+        "Apr Weekend HS16",
+        "Apr Weekend HS17",
+        "Apr Weekend HS18",
+        "Apr Weekend HS19",
+        "Apr Weekend HS20",
+        "Apr Weekend HS21",
+        "Apr Weekend HS22",
+        "Apr Weekend HS23"
+      ]
+    },
+    "5": {
+      "Weekday": [
+        "May Weekday HS0",
+        "May Weekday HS1",
+        "May Weekday HS2",
+        "May Weekday HS3",
+        "May Weekday HS4",
+        "May Weekday HS5",
+        "May Weekday HS6",
+        "May Weekday HS7",
+        "May Weekday HS8",
+        "May Weekday HS9",
+        "May Weekday HS10",
+        "May Weekday HS11",
+        "May Weekday HS12",
+        "May Weekday HS13",
+        "May Weekday HS14",
+        "May Weekday HS15",
+        "May Weekday HS16",
+        "May Weekday HS17",
+        "May Weekday HS18",
+        "May Weekday HS19",
+        "May Weekday HS20",
+        "May Weekday HS21",
+        "May Weekday HS22",
+        "May Weekday HS23"
+      ],
+      "Weekend": [
+        "May Weekend HS0",
+        "May Weekend HS1",
+        "May Weekend HS2",
+        "May Weekend HS3",
+        "May Weekend HS4",
+        "May Weekend HS5",
+        "May Weekend HS6",
+        "May Weekend HS7",
+        "May Weekend HS8",
+        "May Weekend HS9",
+        "May Weekend HS10",
+        "May Weekend HS11",
+        "May Weekend HS12",
+        "May Weekend HS13",
+        "May Weekend HS14",
+        "May Weekend HS15",
+        "May Weekend HS16",
+        "May Weekend HS17",
+        "May Weekend HS18",
+        "May Weekend HS19",
+        "May Weekend HS20",
+        "May Weekend HS21",
+        "May Weekend HS22",
+        "May Weekend HS23"
+      ]
+    },
+    "6": {
+      "Weekday": [
+        "Jun Weekday HS0",
+        "Jun Weekday HS1",
+        "Jun Weekday HS2",
+        "Jun Weekday HS3",
+        "Jun Weekday HS4",
+        "Jun Weekday HS5",
+        "Jun Weekday HS6",
+        "Jun Weekday HS7",
+        "Jun Weekday HS8",
+        "Jun Weekday HS9",
+        "Jun Weekday HS10",
+        "Jun Weekday HS11",
+        "Jun Weekday HS12",
+        "Jun Weekday HS13",
+        "Jun Weekday HS14",
+        "Jun Weekday HS15",
+        "Jun Weekday HS16",
+        "Jun Weekday HS17",
+        "Jun Weekday HS18",
+        "Jun Weekday HS19",
+        "Jun Weekday HS20",
+        "Jun Weekday HS21",
+        "Jun Weekday HS22",
+        "Jun Weekday HS23"
+      ],
+      "Weekend": [
+        "Jun Weekend HS0",
+        "Jun Weekend HS1",
+        "Jun Weekend HS2",
+        "Jun Weekend HS3",
+        "Jun Weekend HS4",
+        "Jun Weekend HS5",
+        "Jun Weekend HS6",
+        "Jun Weekend HS7",
+        "Jun Weekend HS8",
+        "Jun Weekend HS9",
+        "Jun Weekend HS10",
+        "Jun Weekend HS11",
+        "Jun Weekend HS12",
+        "Jun Weekend HS13",
+        "Jun Weekend HS14",
+        "Jun Weekend HS15",
+        "Jun Weekend HS16",
+        "Jun Weekend HS17",
+        "Jun Weekend HS18",
+        "Jun Weekend HS19",
+        "Jun Weekend HS20",
+        "Jun Weekend HS21",
+        "Jun Weekend HS22",
+        "Jun Weekend HS23"
+      ]
+    },
+    "7": {
+      "Weekday": [
+        "Jul Weekday HS0",
+        "Jul Weekday HS1",
+        "Jul Weekday HS2",
+        "Jul Weekday HS3",
+        "Jul Weekday HS4",
+        "Jul Weekday HS5",
+        "Jul Weekday HS6",
+        "Jul Weekday HS7",
+        "Jul Weekday HS8",
+        "Jul Weekday HS9",
+        "Jul Weekday HS10",
+        "Jul Weekday HS11",
+        "Jul Weekday HS12",
+        "Jul Weekday HS13",
+        "Jul Weekday HS14",
+        "Jul Weekday HS15",
+        "Jul Weekday HS16",
+        "Jul Weekday HS17",
+        "Jul Weekday HS18",
+        "Jul Weekday HS19",
+        "Jul Weekday HS20",
+        "Jul Weekday HS21",
+        "Jul Weekday HS22",
+        "Jul Weekday HS23"
+      ],
+      "Weekend": [
+        "Jul Weekend HS0",
+        "Jul Weekend HS1",
+        "Jul Weekend HS2",
+        "Jul Weekend HS3",
+        "Jul Weekend HS4",
+        "Jul Weekend HS5",
+        "Jul Weekend HS6",
+        "Jul Weekend HS7",
+        "Jul Weekend HS8",
+        "Jul Weekend HS9",
+        "Jul Weekend HS10",
+        "Jul Weekend HS11",
+        "Jul Weekend HS12",
+        "Jul Weekend HS13",
+        "Jul Weekend HS14",
+        "Jul Weekend HS15",
+        "Jul Weekend HS16",
+        "Jul Weekend HS17",
+        "Jul Weekend HS18",
+        "Jul Weekend HS19",
+        "Jul Weekend HS20",
+        "Jul Weekend HS21",
+        "Jul Weekend HS22",
+        "Jul Weekend HS23"
+      ]
+    },
+    "8": {
+      "Weekday": [
+        "Aug Weekday HS0",
+        "Aug Weekday HS1",
+        "Aug Weekday HS2",
+        "Aug Weekday HS3",
+        "Aug Weekday HS4",
+        "Aug Weekday HS5",
+        "Aug Weekday HS6",
+        "Aug Weekday HS7",
+        "Aug Weekday HS8",
+        "Aug Weekday HS9",
+        "Aug Weekday HS10",
+        "Aug Weekday HS11",
+        "Aug Weekday HS12",
+        "Aug Weekday HS13",
+        "Aug Weekday HS14",
+        "Aug Weekday HS15",
+        "Aug Weekday HS16",
+        "Aug Weekday HS17",
+        "Aug Weekday HS18",
+        "Aug Weekday HS19",
+        "Aug Weekday HS20",
+        "Aug Weekday HS21",
+        "Aug Weekday HS22",
+        "Aug Weekday HS23"
+      ],
+      "Weekend": [
+        "Aug Weekend HS0",
+        "Aug Weekend HS1",
+        "Aug Weekend HS2",
+        "Aug Weekend HS3",
+        "Aug Weekend HS4",
+        "Aug Weekend HS5",
+        "Aug Weekend HS6",
+        "Aug Weekend HS7",
+        "Aug Weekend HS8",
+        "Aug Weekend HS9",
+        "Aug Weekend HS10",
+        "Aug Weekend HS11",
+        "Aug Weekend HS12",
+        "Aug Weekend HS13",
+        "Aug Weekend HS14",
+        "Aug Weekend HS15",
+        "Aug Weekend HS16",
+        "Aug Weekend HS17",
+        "Aug Weekend HS18",
+        "Aug Weekend HS19",
+        "Aug Weekend HS20",
+        "Aug Weekend HS21",
+        "Aug Weekend HS22",
+        "Aug Weekend HS23"
+      ]
+    },
+    "9": {
+      "Weekday": [
+        "Sep Weekday HS0",
+        "Sep Weekday HS1",
+        "Sep Weekday HS2",
+        "Sep Weekday HS3",
+        "Sep Weekday HS4",
+        "Sep Weekday HS5",
+        "Sep Weekday HS6",
+        "Sep Weekday HS7",
+        "Sep Weekday HS8",
+        "Sep Weekday HS9",
+        "Sep Weekday HS10",
+        "Sep Weekday HS11",
+        "Sep Weekday HS12",
+        "Sep Weekday HS13",
+        "Sep Weekday HS14",
+        "Sep Weekday HS15",
+        "Sep Weekday HS16",
+        "Sep Weekday HS17",
+        "Sep Weekday HS18",
+        "Sep Weekday HS19",
+        "Sep Weekday HS20",
+        "Sep Weekday HS21",
+        "Sep Weekday HS22",
+        "Sep Weekday HS23"
+      ],
+      "Weekend": [
+        "Sep Weekend HS0",
+        "Sep Weekend HS1",
+        "Sep Weekend HS2",
+        "Sep Weekend HS3",
+        "Sep Weekend HS4",
+        "Sep Weekend HS5",
+        "Sep Weekend HS6",
+        "Sep Weekend HS7",
+        "Sep Weekend HS8",
+        "Sep Weekend HS9",
+        "Sep Weekend HS10",
+        "Sep Weekend HS11",
+        "Sep Weekend HS12",
+        "Sep Weekend HS13",
+        "Sep Weekend HS14",
+        "Sep Weekend HS15",
+        "Sep Weekend HS16",
+        "Sep Weekend HS17",
+        "Sep Weekend HS18",
+        "Sep Weekend HS19",
+        "Sep Weekend HS20",
+        "Sep Weekend HS21",
+        "Sep Weekend HS22",
+        "Sep Weekend HS23"
+      ]
+    },
+    "10": {
+      "Weekday": [
+        "Oct Weekday HS0",
+        "Oct Weekday HS1",
+        "Oct Weekday HS2",
+        "Oct Weekday HS3",
+        "Oct Weekday HS4",
+        "Oct Weekday HS5",
+        "Oct Weekday HS6",
+        "Oct Weekday HS7",
+        "Oct Weekday HS8",
+        "Oct Weekday HS9",
+        "Oct Weekday HS10",
+        "Oct Weekday HS11",
+        "Oct Weekday HS12",
+        "Oct Weekday HS13",
+        "Oct Weekday HS14",
+        "Oct Weekday HS15",
+        "Oct Weekday HS16",
+        "Oct Weekday HS17",
+        "Oct Weekday HS18",
+        "Oct Weekday HS19",
+        "Oct Weekday HS20",
+        "Oct Weekday HS21",
+        "Oct Weekday HS22",
+        "Oct Weekday HS23"
+      ],
+      "Weekend": [
+        "Oct Weekend HS0",
+        "Oct Weekend HS1",
+        "Oct Weekend HS2",
+        "Oct Weekend HS3",
+        "Oct Weekend HS4",
+        "Oct Weekend HS5",
+        "Oct Weekend HS6",
+        "Oct Weekend HS7",
+        "Oct Weekend HS8",
+        "Oct Weekend HS9",
+        "Oct Weekend HS10",
+        "Oct Weekend HS11",
+        "Oct Weekend HS12",
+        "Oct Weekend HS13",
+        "Oct Weekend HS14",
+        "Oct Weekend HS15",
+        "Oct Weekend HS16",
+        "Oct Weekend HS17",
+        "Oct Weekend HS18",
+        "Oct Weekend HS19",
+        "Oct Weekend HS20",
+        "Oct Weekend HS21",
+        "Oct Weekend HS22",
+        "Oct Weekend HS23"
+      ]
+    },
+    "11": {
+      "Weekday": [
+        "Nov Weekday HS0",
+        "Nov Weekday HS1",
+        "Nov Weekday HS2",
+        "Nov Weekday HS3",
+        "Nov Weekday HS4",
+        "Nov Weekday HS5",
+        "Nov Weekday HS6",
+        "Nov Weekday HS7",
+        "Nov Weekday HS8",
+        "Nov Weekday HS9",
+        "Nov Weekday HS10",
+        "Nov Weekday HS11",
+        "Nov Weekday HS12",
+        "Nov Weekday HS13",
+        "Nov Weekday HS14",
+        "Nov Weekday HS15",
+        "Nov Weekday HS16",
+        "Nov Weekday HS17",
+        "Nov Weekday HS18",
+        "Nov Weekday HS19",
+        "Nov Weekday HS20",
+        "Nov Weekday HS21",
+        "Nov Weekday HS22",
+        "Nov Weekday HS23"
+      ],
+      "Weekend": [
+        "Nov Weekend HS0",
+        "Nov Weekend HS1",
+        "Nov Weekend HS2",
+        "Nov Weekend HS3",
+        "Nov Weekend HS4",
+        "Nov Weekend HS5",
+        "Nov Weekend HS6",
+        "Nov Weekend HS7",
+        "Nov Weekend HS8",
+        "Nov Weekend HS9",
+        "Nov Weekend HS10",
+        "Nov Weekend HS11",
+        "Nov Weekend HS12",
+        "Nov Weekend HS13",
+        "Nov Weekend HS14",
+        "Nov Weekend HS15",
+        "Nov Weekend HS16",
+        "Nov Weekend HS17",
+        "Nov Weekend HS18",
+        "Nov Weekend HS19",
+        "Nov Weekend HS20",
+        "Nov Weekend HS21",
+        "Nov Weekend HS22",
+        "Nov Weekend HS23"
+      ]
+    },
+    "12": {
+      "Weekday": [
+        "Dec Weekday HS0",
+        "Dec Weekday HS1",
+        "Dec Weekday HS2",
+        "Dec Weekday HS3",
+        "Dec Weekday HS4",
+        "Dec Weekday HS5",
+        "Dec Weekday HS6",
+        "Dec Weekday HS7",
+        "Dec Weekday HS8",
+        "Dec Weekday HS9",
+        "Dec Weekday HS10",
+        "Dec Weekday HS11",
+        "Dec Weekday HS12",
+        "Dec Weekday HS13",
+        "Dec Weekday HS14",
+        "Dec Weekday HS15",
+        "Dec Weekday HS16",
+        "Dec Weekday HS17",
+        "Dec Weekday HS18",
+        "Dec Weekday HS19",
+        "Dec Weekday HS20",
+        "Dec Weekday HS21",
+        "Dec Weekday HS22",
+        "Dec Weekday HS23"
+      ],
+      "Weekend": [
+        "Dec Weekend HS0",
+        "Dec Weekend HS1",
+        "Dec Weekend HS2",
+        "Dec Weekend HS3",
+        "Dec Weekend HS4",
+        "Dec Weekend HS5",
+        "Dec Weekend HS6",
+        "Dec Weekend HS7",
+        "Dec Weekend HS8",
+        "Dec Weekend HS9",
+        "Dec Weekend HS10",
+        "Dec Weekend HS11",
+        "Dec Weekend HS12",
+        "Dec Weekend HS13",
+        "Dec Weekend HS14",
+        "Dec Weekend HS15",
+        "Dec Weekend HS16",
+        "Dec Weekend HS17",
+        "Dec Weekend HS18",
+        "Dec Weekend HS19",
+        "Dec Weekend HS20",
+        "Dec Weekend HS21",
+        "Dec Weekend HS22",
+        "Dec Weekend HS23"
+      ]
+    }
+  },
+  "rate_prices": {
+    "Apr Weekday HS0": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.0506,
+        -0.0506
+      ]
+    },
+    "Apr Weekday HS1": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03898,
+        -0.03898
+      ]
+    },
+    "Apr Weekday HS10": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00988,
+        -0.00988
+      ]
+    },
+    "Apr Weekday HS11": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.01023,
+        -0.01023
+      ]
+    },
+    "Apr Weekday HS12": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00979,
+        -0.00979
+      ]
+    },
+    "Apr Weekday HS13": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00928,
+        -0.00928
+      ]
+    },
+    "Apr Weekday HS14": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00652,
+        -0.00652
+      ]
+    },
+    "Apr Weekday HS15": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.00536,
+        -0.00536
+      ]
+    },
+    "Apr Weekday HS16": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.00724,
+        -0.00724
+      ]
+    },
+    "Apr Weekday HS17": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.01855,
+        -0.01855
+      ]
+    },
+    "Apr Weekday HS18": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05066,
+        -0.05066
+      ]
+    },
+    "Apr Weekday HS19": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.04949,
+        -0.04949
+      ]
+    },
+    "Apr Weekday HS2": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03841,
+        -0.03841
+      ]
+    },
+    "Apr Weekday HS20": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.04759,
+        -0.04759
+      ]
+    },
+    "Apr Weekday HS21": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.04883,
+        -0.04883
+      ]
+    },
+    "Apr Weekday HS22": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.04435,
+        -0.04435
+      ]
+    },
+    "Apr Weekday HS23": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.04566,
+        -0.04566
+      ]
+    },
+    "Apr Weekday HS3": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03691,
+        -0.03691
+      ]
+    },
+    "Apr Weekday HS4": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03865,
+        -0.03865
+      ]
+    },
+    "Apr Weekday HS5": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04158,
+        -0.04158
+      ]
+    },
+    "Apr Weekday HS6": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04233,
+        -0.04233
+      ]
+    },
+    "Apr Weekday HS7": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.0352,
+        -0.0352
+      ]
+    },
+    "Apr Weekday HS8": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.01409,
+        -0.01409
+      ]
+    },
+    "Apr Weekday HS9": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.01096,
+        -0.01096
+      ]
+    },
+    "Apr Weekend HS0": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02451,
+        -0.02451
+      ]
+    },
+    "Apr Weekend HS1": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02219,
+        -0.02219
+      ]
+    },
+    "Apr Weekend HS10": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00578,
+        -0.00578
+      ]
+    },
+    "Apr Weekend HS11": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00587,
+        -0.00587
+      ]
+    },
+    "Apr Weekend HS12": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.01025,
+        -0.01025
+      ]
+    },
+    "Apr Weekend HS13": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00623,
+        -0.00623
+      ]
+    },
+    "Apr Weekend HS14": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00334,
+        -0.00334
+      ]
+    },
+    "Apr Weekend HS15": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.0003,
+        -0.0003
+      ]
+    },
+    "Apr Weekend HS16": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.0003,
+        -0.0003
+      ]
+    },
+    "Apr Weekend HS17": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.00341,
+        -0.00341
+      ]
+    },
+    "Apr Weekend HS18": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.03414,
+        -0.03414
+      ]
+    },
+    "Apr Weekend HS19": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.03233,
+        -0.03233
+      ]
+    },
+    "Apr Weekend HS2": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.01964,
+        -0.01964
+      ]
+    },
+    "Apr Weekend HS20": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.03456,
+        -0.03456
+      ]
+    },
+    "Apr Weekend HS21": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.03178,
+        -0.03178
+      ]
+    },
+    "Apr Weekend HS22": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.03089,
+        -0.03089
+      ]
+    },
+    "Apr Weekend HS23": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.02933,
+        -0.02933
+      ]
+    },
+    "Apr Weekend HS3": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.01971,
+        -0.01971
+      ]
+    },
+    "Apr Weekend HS4": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.01957,
+        -0.01957
+      ]
+    },
+    "Apr Weekend HS5": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02048,
+        -0.02048
+      ]
+    },
+    "Apr Weekend HS6": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02157,
+        -0.02157
+      ]
+    },
+    "Apr Weekend HS7": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.01678,
+        -0.01678
+      ]
+    },
+    "Apr Weekend HS8": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00731,
+        -0.00731
+      ]
+    },
+    "Apr Weekend HS9": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00664,
+        -0.00664
+      ]
+    },
+    "Aug Weekday HS0": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05411,
+        -0.05411
+      ]
+    },
+    "Aug Weekday HS1": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05125,
+        -0.05125
+      ]
+    },
+    "Aug Weekday HS10": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05867,
+        -0.05867
+      ]
+    },
+    "Aug Weekday HS11": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05708,
+        -0.05708
+      ]
+    },
+    "Aug Weekday HS12": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05616,
+        -0.05616
+      ]
+    },
+    "Aug Weekday HS13": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05562,
+        -0.05562
+      ]
+    },
+    "Aug Weekday HS14": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05522,
+        -0.05522
+      ]
+    },
+    "Aug Weekday HS15": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.05625,
+        -0.05625
+      ]
+    },
+    "Aug Weekday HS16": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.05685,
+        -0.05685
+      ]
+    },
+    "Aug Weekday HS17": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.15675,
+        -0.15675
+      ]
+    },
+    "Aug Weekday HS18": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.33215,
+        -0.33215
+      ]
+    },
+    "Aug Weekday HS19": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.97728,
+        -0.97728
+      ]
+    },
+    "Aug Weekday HS2": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05114,
+        -0.05114
+      ]
+    },
+    "Aug Weekday HS20": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.34078,
+        -0.34078
+      ]
+    },
+    "Aug Weekday HS21": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.46198,
+        -0.46198
+      ]
+    },
+    "Aug Weekday HS22": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.35616,
+        -0.35616
+      ]
+    },
+    "Aug Weekday HS23": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.05194,
+        -0.05194
+      ]
+    },
+    "Aug Weekday HS3": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05102,
+        -0.05102
+      ]
+    },
+    "Aug Weekday HS4": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05092,
+        -0.05092
+      ]
+    },
+    "Aug Weekday HS5": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05146,
+        -0.05146
+      ]
+    },
+    "Aug Weekday HS6": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05157,
+        -0.05157
+      ]
+    },
+    "Aug Weekday HS7": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05286,
+        -0.05286
+      ]
+    },
+    "Aug Weekday HS8": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05495,
+        -0.05495
+      ]
+    },
+    "Aug Weekday HS9": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05988,
+        -0.05988
+      ]
+    },
+    "Aug Weekend HS0": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05145,
+        -0.05145
+      ]
+    },
+    "Aug Weekend HS1": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05115,
+        -0.05115
+      ]
+    },
+    "Aug Weekend HS10": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04705,
+        -0.04705
+      ]
+    },
+    "Aug Weekend HS11": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04659,
+        -0.04659
+      ]
+    },
+    "Aug Weekend HS12": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.0456,
+        -0.0456
+      ]
+    },
+    "Aug Weekend HS13": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04525,
+        -0.04525
+      ]
+    },
+    "Aug Weekend HS14": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04518,
+        -0.04518
+      ]
+    },
+    "Aug Weekend HS15": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.04573,
+        -0.04573
+      ]
+    },
+    "Aug Weekend HS16": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.05313,
+        -0.05313
+      ]
+    },
+    "Aug Weekend HS17": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.14861,
+        -0.14861
+      ]
+    },
+    "Aug Weekend HS18": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.3163,
+        -0.3163
+      ]
+    },
+    "Aug Weekend HS19": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.91206,
+        -0.91206
+      ]
+    },
+    "Aug Weekend HS2": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04856,
+        -0.04856
+      ]
+    },
+    "Aug Weekend HS20": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.3229,
+        -0.3229
+      ]
+    },
+    "Aug Weekend HS21": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.43945,
+        -0.43945
+      ]
+    },
+    "Aug Weekend HS22": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.34131,
+        -0.34131
+      ]
+    },
+    "Aug Weekend HS23": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.06027,
+        -0.06027
+      ]
+    },
+    "Aug Weekend HS3": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04938,
+        -0.04938
+      ]
+    },
+    "Aug Weekend HS4": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04842,
+        -0.04842
+      ]
+    },
+    "Aug Weekend HS5": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04743,
+        -0.04743
+      ]
+    },
+    "Aug Weekend HS6": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04513,
+        -0.04513
+      ]
+    },
+    "Aug Weekend HS7": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04475,
+        -0.04475
+      ]
+    },
+    "Aug Weekend HS8": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04676,
+        -0.04676
+      ]
+    },
+    "Aug Weekend HS9": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04711,
+        -0.04711
+      ]
+    },
+    "Dec Weekday HS0": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05247,
+        -0.05247
+      ]
+    },
+    "Dec Weekday HS1": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05221,
+        -0.05221
+      ]
+    },
+    "Dec Weekday HS10": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05835,
+        -0.05835
+      ]
+    },
+    "Dec Weekday HS11": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05615,
+        -0.05615
+      ]
+    },
+    "Dec Weekday HS12": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05573,
+        -0.05573
+      ]
+    },
+    "Dec Weekday HS13": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05461,
+        -0.05461
+      ]
+    },
+    "Dec Weekday HS14": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05438,
+        -0.05438
+      ]
+    },
+    "Dec Weekday HS15": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.0571,
+        -0.0571
+      ]
+    },
+    "Dec Weekday HS16": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05903,
+        -0.05903
+      ]
+    },
+    "Dec Weekday HS17": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06278,
+        -0.06278
+      ]
+    },
+    "Dec Weekday HS18": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06214,
+        -0.06214
+      ]
+    },
+    "Dec Weekday HS19": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06264,
+        -0.06264
+      ]
+    },
+    "Dec Weekday HS2": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05174,
+        -0.05174
+      ]
+    },
+    "Dec Weekday HS20": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06265,
+        -0.06265
+      ]
+    },
+    "Dec Weekday HS21": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05842,
+        -0.05842
+      ]
+    },
+    "Dec Weekday HS22": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05428,
+        -0.05428
+      ]
+    },
+    "Dec Weekday HS23": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05375,
+        -0.05375
+      ]
+    },
+    "Dec Weekday HS3": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05154,
+        -0.05154
+      ]
+    },
+    "Dec Weekday HS4": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05213,
+        -0.05213
+      ]
+    },
+    "Dec Weekday HS5": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05314,
+        -0.05314
+      ]
+    },
+    "Dec Weekday HS6": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.055,
+        -0.055
+      ]
+    },
+    "Dec Weekday HS7": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05786,
+        -0.05786
+      ]
+    },
+    "Dec Weekday HS8": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05899,
+        -0.05899
+      ]
+    },
+    "Dec Weekday HS9": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.0603,
+        -0.0603
+      ]
+    },
+    "Dec Weekend HS0": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05321,
+        -0.05321
+      ]
+    },
+    "Dec Weekend HS1": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.0532,
+        -0.0532
+      ]
+    },
+    "Dec Weekend HS10": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05078,
+        -0.05078
+      ]
+    },
+    "Dec Weekend HS11": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05034,
+        -0.05034
+      ]
+    },
+    "Dec Weekend HS12": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05,
+        -0.05
+      ]
+    },
+    "Dec Weekend HS13": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04984,
+        -0.04984
+      ]
+    },
+    "Dec Weekend HS14": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04982,
+        -0.04982
+      ]
+    },
+    "Dec Weekend HS15": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05022,
+        -0.05022
+      ]
+    },
+    "Dec Weekend HS16": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05553,
+        -0.05553
+      ]
+    },
+    "Dec Weekend HS17": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05869,
+        -0.05869
+      ]
+    },
+    "Dec Weekend HS18": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06088,
+        -0.06088
+      ]
+    },
+    "Dec Weekend HS19": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05966,
+        -0.05966
+      ]
+    },
+    "Dec Weekend HS2": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05334,
+        -0.05334
+      ]
+    },
+    "Dec Weekend HS20": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05771,
+        -0.05771
+      ]
+    },
+    "Dec Weekend HS21": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05564,
+        -0.05564
+      ]
+    },
+    "Dec Weekend HS22": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.054,
+        -0.054
+      ]
+    },
+    "Dec Weekend HS23": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05168,
+        -0.05168
+      ]
+    },
+    "Dec Weekend HS3": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05258,
+        -0.05258
+      ]
+    },
+    "Dec Weekend HS4": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05221,
+        -0.05221
+      ]
+    },
+    "Dec Weekend HS5": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05215,
+        -0.05215
+      ]
+    },
+    "Dec Weekend HS6": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05252,
+        -0.05252
+      ]
+    },
+    "Dec Weekend HS7": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05128,
+        -0.05128
+      ]
+    },
+    "Dec Weekend HS8": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05051,
+        -0.05051
+      ]
+    },
+    "Dec Weekend HS9": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05039,
+        -0.05039
+      ]
+    },
+    "Feb Weekday HS0": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05049,
+        -0.05049
+      ]
+    },
+    "Feb Weekday HS1": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05037,
+        -0.05037
+      ]
+    },
+    "Feb Weekday HS10": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04459,
+        -0.04459
+      ]
+    },
+    "Feb Weekday HS11": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04394,
+        -0.04394
+      ]
+    },
+    "Feb Weekday HS12": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04235,
+        -0.04235
+      ]
+    },
+    "Feb Weekday HS13": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04265,
+        -0.04265
+      ]
+    },
+    "Feb Weekday HS14": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04421,
+        -0.04421
+      ]
+    },
+    "Feb Weekday HS15": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.04698,
+        -0.04698
+      ]
+    },
+    "Feb Weekday HS16": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05982,
+        -0.05982
+      ]
+    },
+    "Feb Weekday HS17": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06442,
+        -0.06442
+      ]
+    },
+    "Feb Weekday HS18": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06088,
+        -0.06088
+      ]
+    },
+    "Feb Weekday HS19": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06022,
+        -0.06022
+      ]
+    },
+    "Feb Weekday HS2": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04933,
+        -0.04933
+      ]
+    },
+    "Feb Weekday HS20": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06023,
+        -0.06023
+      ]
+    },
+    "Feb Weekday HS21": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.06093,
+        -0.06093
+      ]
+    },
+    "Feb Weekday HS22": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05707,
+        -0.05707
+      ]
+    },
+    "Feb Weekday HS23": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05328,
+        -0.05328
+      ]
+    },
+    "Feb Weekday HS3": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04897,
+        -0.04897
+      ]
+    },
+    "Feb Weekday HS4": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04966,
+        -0.04966
+      ]
+    },
+    "Feb Weekday HS5": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05117,
+        -0.05117
+      ]
+    },
+    "Feb Weekday HS6": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05897,
+        -0.05897
+      ]
+    },
+    "Feb Weekday HS7": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.06029,
+        -0.06029
+      ]
+    },
+    "Feb Weekday HS8": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04958,
+        -0.04958
+      ]
+    },
+    "Feb Weekday HS9": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04588,
+        -0.04588
+      ]
+    },
+    "Feb Weekend HS0": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04808,
+        -0.04808
+      ]
+    },
+    "Feb Weekend HS1": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04856,
+        -0.04856
+      ]
+    },
+    "Feb Weekend HS10": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02826,
+        -0.02826
+      ]
+    },
+    "Feb Weekend HS11": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02808,
+        -0.02808
+      ]
+    },
+    "Feb Weekend HS12": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02709,
+        -0.02709
+      ]
+    },
+    "Feb Weekend HS13": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02888,
+        -0.02888
+      ]
+    },
+    "Feb Weekend HS14": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02825,
+        -0.02825
+      ]
+    },
+    "Feb Weekend HS15": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.03176,
+        -0.03176
+      ]
+    },
+    "Feb Weekend HS16": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05479,
+        -0.05479
+      ]
+    },
+    "Feb Weekend HS17": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06803,
+        -0.06803
+      ]
+    },
+    "Feb Weekend HS18": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06764,
+        -0.06764
+      ]
+    },
+    "Feb Weekend HS19": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06757,
+        -0.06757
+      ]
+    },
+    "Feb Weekend HS2": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04775,
+        -0.04775
+      ]
+    },
+    "Feb Weekend HS20": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06708,
+        -0.06708
+      ]
+    },
+    "Feb Weekend HS21": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.06787,
+        -0.06787
+      ]
+    },
+    "Feb Weekend HS22": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05607,
+        -0.05607
+      ]
+    },
+    "Feb Weekend HS23": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.0499,
+        -0.0499
+      ]
+    },
+    "Feb Weekend HS3": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04798,
+        -0.04798
+      ]
+    },
+    "Feb Weekend HS4": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04774,
+        -0.04774
+      ]
+    },
+    "Feb Weekend HS5": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04742,
+        -0.04742
+      ]
+    },
+    "Feb Weekend HS6": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04691,
+        -0.04691
+      ]
+    },
+    "Feb Weekend HS7": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04474,
+        -0.04474
+      ]
+    },
+    "Feb Weekend HS8": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02995,
+        -0.02995
+      ]
+    },
+    "Feb Weekend HS9": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02881,
+        -0.02881
+      ]
+    },
+    "Jan Weekday HS0": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05322,
+        -0.05322
+      ]
+    },
+    "Jan Weekday HS1": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05374,
+        -0.05374
+      ]
+    },
+    "Jan Weekday HS10": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05808,
+        -0.05808
+      ]
+    },
+    "Jan Weekday HS11": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05645,
+        -0.05645
+      ]
+    },
+    "Jan Weekday HS12": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05548,
+        -0.05548
+      ]
+    },
+    "Jan Weekday HS13": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.0545,
+        -0.0545
+      ]
+    },
+    "Jan Weekday HS14": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.0545,
+        -0.0545
+      ]
+    },
+    "Jan Weekday HS15": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05608,
+        -0.05608
+      ]
+    },
+    "Jan Weekday HS16": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06115,
+        -0.06115
+      ]
+    },
+    "Jan Weekday HS17": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06383,
+        -0.06383
+      ]
+    },
+    "Jan Weekday HS18": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06326,
+        -0.06326
+      ]
+    },
+    "Jan Weekday HS19": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06348,
+        -0.06348
+      ]
+    },
+    "Jan Weekday HS2": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05403,
+        -0.05403
+      ]
+    },
+    "Jan Weekday HS20": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06399,
+        -0.06399
+      ]
+    },
+    "Jan Weekday HS21": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.06222,
+        -0.06222
+      ]
+    },
+    "Jan Weekday HS22": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05736,
+        -0.05736
+      ]
+    },
+    "Jan Weekday HS23": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05408,
+        -0.05408
+      ]
+    },
+    "Jan Weekday HS3": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05384,
+        -0.05384
+      ]
+    },
+    "Jan Weekday HS4": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05352,
+        -0.05352
+      ]
+    },
+    "Jan Weekday HS5": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05403,
+        -0.05403
+      ]
+    },
+    "Jan Weekday HS6": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05782,
+        -0.05782
+      ]
+    },
+    "Jan Weekday HS7": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.06048,
+        -0.06048
+      ]
+    },
+    "Jan Weekday HS8": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.06089,
+        -0.06089
+      ]
+    },
+    "Jan Weekday HS9": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05838,
+        -0.05838
+      ]
+    },
+    "Jan Weekend HS0": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05372,
+        -0.05372
+      ]
+    },
+    "Jan Weekend HS1": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.053,
+        -0.053
+      ]
+    },
+    "Jan Weekend HS10": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04786,
+        -0.04786
+      ]
+    },
+    "Jan Weekend HS11": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04723,
+        -0.04723
+      ]
+    },
+    "Jan Weekend HS12": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04592,
+        -0.04592
+      ]
+    },
+    "Jan Weekend HS13": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04741,
+        -0.04741
+      ]
+    },
+    "Jan Weekend HS14": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04658,
+        -0.04658
+      ]
+    },
+    "Jan Weekend HS15": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.04721,
+        -0.04721
+      ]
+    },
+    "Jan Weekend HS16": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05966,
+        -0.05966
+      ]
+    },
+    "Jan Weekend HS17": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06533,
+        -0.06533
+      ]
+    },
+    "Jan Weekend HS18": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06668,
+        -0.06668
+      ]
+    },
+    "Jan Weekend HS19": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06664,
+        -0.06664
+      ]
+    },
+    "Jan Weekend HS2": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05382,
+        -0.05382
+      ]
+    },
+    "Jan Weekend HS20": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06679,
+        -0.06679
+      ]
+    },
+    "Jan Weekend HS21": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.06409,
+        -0.06409
+      ]
+    },
+    "Jan Weekend HS22": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05848,
+        -0.05848
+      ]
+    },
+    "Jan Weekend HS23": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05448,
+        -0.05448
+      ]
+    },
+    "Jan Weekend HS3": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05337,
+        -0.05337
+      ]
+    },
+    "Jan Weekend HS4": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05241,
+        -0.05241
+      ]
+    },
+    "Jan Weekend HS5": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05156,
+        -0.05156
+      ]
+    },
+    "Jan Weekend HS6": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05376,
+        -0.05376
+      ]
+    },
+    "Jan Weekend HS7": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05889,
+        -0.05889
+      ]
+    },
+    "Jan Weekend HS8": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05291,
+        -0.05291
+      ]
+    },
+    "Jan Weekend HS9": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04911,
+        -0.04911
+      ]
+    },
+    "Jul Weekday HS0": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05303,
+        -0.05303
+      ]
+    },
+    "Jul Weekday HS1": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04768,
+        -0.04768
+      ]
+    },
+    "Jul Weekday HS10": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.0544,
+        -0.0544
+      ]
+    },
+    "Jul Weekday HS11": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05336,
+        -0.05336
+      ]
+    },
+    "Jul Weekday HS12": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05296,
+        -0.05296
+      ]
+    },
+    "Jul Weekday HS13": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05336,
+        -0.05336
+      ]
+    },
+    "Jul Weekday HS14": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05294,
+        -0.05294
+      ]
+    },
+    "Jul Weekday HS15": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.05223,
+        -0.05223
+      ]
+    },
+    "Jul Weekday HS16": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.05532,
+        -0.05532
+      ]
+    },
+    "Jul Weekday HS17": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.07386,
+        -0.07386
+      ]
+    },
+    "Jul Weekday HS18": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.06531,
+        -0.06531
+      ]
+    },
+    "Jul Weekday HS19": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.26146,
+        -0.26146
+      ]
+    },
+    "Jul Weekday HS2": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04779,
+        -0.04779
+      ]
+    },
+    "Jul Weekday HS20": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.12494,
+        -0.12494
+      ]
+    },
+    "Jul Weekday HS21": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.06485,
+        -0.06485
+      ]
+    },
+    "Jul Weekday HS22": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.06014,
+        -0.06014
+      ]
+    },
+    "Jul Weekday HS23": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.05194,
+        -0.05194
+      ]
+    },
+    "Jul Weekday HS3": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04784,
+        -0.04784
+      ]
+    },
+    "Jul Weekday HS4": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04806,
+        -0.04806
+      ]
+    },
+    "Jul Weekday HS5": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.0486,
+        -0.0486
+      ]
+    },
+    "Jul Weekday HS6": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05041,
+        -0.05041
+      ]
+    },
+    "Jul Weekday HS7": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05096,
+        -0.05096
+      ]
+    },
+    "Jul Weekday HS8": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.0522,
+        -0.0522
+      ]
+    },
+    "Jul Weekday HS9": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05446,
+        -0.05446
+      ]
+    },
+    "Jul Weekend HS0": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05242,
+        -0.05242
+      ]
+    },
+    "Jul Weekend HS1": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05103,
+        -0.05103
+      ]
+    },
+    "Jul Weekend HS10": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03248,
+        -0.03248
+      ]
+    },
+    "Jul Weekend HS11": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03229,
+        -0.03229
+      ]
+    },
+    "Jul Weekend HS12": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03059,
+        -0.03059
+      ]
+    },
+    "Jul Weekend HS13": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.02897,
+        -0.02897
+      ]
+    },
+    "Jul Weekend HS14": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.02882,
+        -0.02882
+      ]
+    },
+    "Jul Weekend HS15": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.02857,
+        -0.02857
+      ]
+    },
+    "Jul Weekend HS16": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.03212,
+        -0.03212
+      ]
+    },
+    "Jul Weekend HS17": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.05717,
+        -0.05717
+      ]
+    },
+    "Jul Weekend HS18": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.07428,
+        -0.07428
+      ]
+    },
+    "Jul Weekend HS19": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.44245,
+        -0.44245
+      ]
+    },
+    "Jul Weekend HS2": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04927,
+        -0.04927
+      ]
+    },
+    "Jul Weekend HS20": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.1766,
+        -0.1766
+      ]
+    },
+    "Jul Weekend HS21": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.06395,
+        -0.06395
+      ]
+    },
+    "Jul Weekend HS22": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.06089,
+        -0.06089
+      ]
+    },
+    "Jul Weekend HS23": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.06125,
+        -0.06125
+      ]
+    },
+    "Jul Weekend HS3": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04826,
+        -0.04826
+      ]
+    },
+    "Jul Weekend HS4": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04666,
+        -0.04666
+      ]
+    },
+    "Jul Weekend HS5": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04662,
+        -0.04662
+      ]
+    },
+    "Jul Weekend HS6": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04719,
+        -0.04719
+      ]
+    },
+    "Jul Weekend HS7": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03305,
+        -0.03305
+      ]
+    },
+    "Jul Weekend HS8": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.02989,
+        -0.02989
+      ]
+    },
+    "Jul Weekend HS9": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03117,
+        -0.03117
+      ]
+    },
+    "Jun Weekday HS0": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04959,
+        -0.04959
+      ]
+    },
+    "Jun Weekday HS1": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04632,
+        -0.04632
+      ]
+    },
+    "Jun Weekday HS10": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.0484,
+        -0.0484
+      ]
+    },
+    "Jun Weekday HS11": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04765,
+        -0.04765
+      ]
+    },
+    "Jun Weekday HS12": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04727,
+        -0.04727
+      ]
+    },
+    "Jun Weekday HS13": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04685,
+        -0.04685
+      ]
+    },
+    "Jun Weekday HS14": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.0468,
+        -0.0468
+      ]
+    },
+    "Jun Weekday HS15": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.04721,
+        -0.04721
+      ]
+    },
+    "Jun Weekday HS16": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.04827,
+        -0.04827
+      ]
+    },
+    "Jun Weekday HS17": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.05364,
+        -0.05364
+      ]
+    },
+    "Jun Weekday HS18": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.06128,
+        -0.06128
+      ]
+    },
+    "Jun Weekday HS19": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.0618,
+        -0.0618
+      ]
+    },
+    "Jun Weekday HS2": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04686,
+        -0.04686
+      ]
+    },
+    "Jun Weekday HS20": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.06318,
+        -0.06318
+      ]
+    },
+    "Jun Weekday HS21": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.06048,
+        -0.06048
+      ]
+    },
+    "Jun Weekday HS22": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.06056,
+        -0.06056
+      ]
+    },
+    "Jun Weekday HS23": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.05443,
+        -0.05443
+      ]
+    },
+    "Jun Weekday HS3": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04663,
+        -0.04663
+      ]
+    },
+    "Jun Weekday HS4": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04798,
+        -0.04798
+      ]
+    },
+    "Jun Weekday HS5": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04829,
+        -0.04829
+      ]
+    },
+    "Jun Weekday HS6": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05004,
+        -0.05004
+      ]
+    },
+    "Jun Weekday HS7": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04901,
+        -0.04901
+      ]
+    },
+    "Jun Weekday HS8": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04795,
+        -0.04795
+      ]
+    },
+    "Jun Weekday HS9": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04917,
+        -0.04917
+      ]
+    },
+    "Jun Weekend HS0": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05253,
+        -0.05253
+      ]
+    },
+    "Jun Weekend HS1": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04846,
+        -0.04846
+      ]
+    },
+    "Jun Weekend HS10": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03277,
+        -0.03277
+      ]
+    },
+    "Jun Weekend HS11": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.032,
+        -0.032
+      ]
+    },
+    "Jun Weekend HS12": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03035,
+        -0.03035
+      ]
+    },
+    "Jun Weekend HS13": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.02912,
+        -0.02912
+      ]
+    },
+    "Jun Weekend HS14": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03092,
+        -0.03092
+      ]
+    },
+    "Jun Weekend HS15": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.03031,
+        -0.03031
+      ]
+    },
+    "Jun Weekend HS16": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.03491,
+        -0.03491
+      ]
+    },
+    "Jun Weekend HS17": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.05138,
+        -0.05138
+      ]
+    },
+    "Jun Weekend HS18": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.0634,
+        -0.0634
+      ]
+    },
+    "Jun Weekend HS19": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.0621,
+        -0.0621
+      ]
+    },
+    "Jun Weekend HS2": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.0481,
+        -0.0481
+      ]
+    },
+    "Jun Weekend HS20": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.06338,
+        -0.06338
+      ]
+    },
+    "Jun Weekend HS21": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.06045,
+        -0.06045
+      ]
+    },
+    "Jun Weekend HS22": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.0613,
+        -0.0613
+      ]
+    },
+    "Jun Weekend HS23": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.06125,
+        -0.06125
+      ]
+    },
+    "Jun Weekend HS3": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.049,
+        -0.049
+      ]
+    },
+    "Jun Weekend HS4": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04984,
+        -0.04984
+      ]
+    },
+    "Jun Weekend HS5": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04997,
+        -0.04997
+      ]
+    },
+    "Jun Weekend HS6": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04807,
+        -0.04807
+      ]
+    },
+    "Jun Weekend HS7": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03425,
+        -0.03425
+      ]
+    },
+    "Jun Weekend HS8": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.0286,
+        -0.0286
+      ]
+    },
+    "Jun Weekend HS9": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03172,
+        -0.03172
+      ]
+    },
+    "Mar Weekday HS0": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05096,
+        -0.05096
+      ]
+    },
+    "Mar Weekday HS1": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04967,
+        -0.04967
+      ]
+    },
+    "Mar Weekday HS10": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03626,
+        -0.03626
+      ]
+    },
+    "Mar Weekday HS11": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03542,
+        -0.03542
+      ]
+    },
+    "Mar Weekday HS12": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03368,
+        -0.03368
+      ]
+    },
+    "Mar Weekday HS13": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03213,
+        -0.03213
+      ]
+    },
+    "Mar Weekday HS14": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03176,
+        -0.03176
+      ]
+    },
+    "Mar Weekday HS15": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.03198,
+        -0.03198
+      ]
+    },
+    "Mar Weekday HS16": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.03581,
+        -0.03581
+      ]
+    },
+    "Mar Weekday HS17": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05157,
+        -0.05157
+      ]
+    },
+    "Mar Weekday HS18": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06492,
+        -0.06492
+      ]
+    },
+    "Mar Weekday HS19": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.0657,
+        -0.0657
+      ]
+    },
+    "Mar Weekday HS2": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05086,
+        -0.05086
+      ]
+    },
+    "Mar Weekday HS20": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06416,
+        -0.06416
+      ]
+    },
+    "Mar Weekday HS21": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.06252,
+        -0.06252
+      ]
+    },
+    "Mar Weekday HS22": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05874,
+        -0.05874
+      ]
+    },
+    "Mar Weekday HS23": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05247,
+        -0.05247
+      ]
+    },
+    "Mar Weekday HS3": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04935,
+        -0.04935
+      ]
+    },
+    "Mar Weekday HS4": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.0495,
+        -0.0495
+      ]
+    },
+    "Mar Weekday HS5": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05187,
+        -0.05187
+      ]
+    },
+    "Mar Weekday HS6": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05422,
+        -0.05422
+      ]
+    },
+    "Mar Weekday HS7": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05701,
+        -0.05701
+      ]
+    },
+    "Mar Weekday HS8": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04501,
+        -0.04501
+      ]
+    },
+    "Mar Weekday HS9": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03781,
+        -0.03781
+      ]
+    },
+    "Mar Weekend HS0": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05187,
+        -0.05187
+      ]
+    },
+    "Mar Weekend HS1": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05306,
+        -0.05306
+      ]
+    },
+    "Mar Weekend HS10": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.01235,
+        -0.01235
+      ]
+    },
+    "Mar Weekend HS11": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.01405,
+        -0.01405
+      ]
+    },
+    "Mar Weekend HS12": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.01288,
+        -0.01288
+      ]
+    },
+    "Mar Weekend HS13": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00776,
+        -0.00776
+      ]
+    },
+    "Mar Weekend HS14": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00718,
+        -0.00718
+      ]
+    },
+    "Mar Weekend HS15": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.00896,
+        -0.00896
+      ]
+    },
+    "Mar Weekend HS16": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.01182,
+        -0.01182
+      ]
+    },
+    "Mar Weekend HS17": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.04503,
+        -0.04503
+      ]
+    },
+    "Mar Weekend HS18": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06382,
+        -0.06382
+      ]
+    },
+    "Mar Weekend HS19": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06585,
+        -0.06585
+      ]
+    },
+    "Mar Weekend HS2": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05266,
+        -0.05266
+      ]
+    },
+    "Mar Weekend HS20": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.06493,
+        -0.06493
+      ]
+    },
+    "Mar Weekend HS21": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.06427,
+        -0.06427
+      ]
+    },
+    "Mar Weekend HS22": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.06075,
+        -0.06075
+      ]
+    },
+    "Mar Weekend HS23": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05904,
+        -0.05904
+      ]
+    },
+    "Mar Weekend HS3": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05179,
+        -0.05179
+      ]
+    },
+    "Mar Weekend HS4": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04991,
+        -0.04991
+      ]
+    },
+    "Mar Weekend HS5": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05023,
+        -0.05023
+      ]
+    },
+    "Mar Weekend HS6": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05085,
+        -0.05085
+      ]
+    },
+    "Mar Weekend HS7": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03678,
+        -0.03678
+      ]
+    },
+    "Mar Weekend HS8": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.0189,
+        -0.0189
+      ]
+    },
+    "Mar Weekend HS9": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.0124,
+        -0.0124
+      ]
+    },
+    "May Weekday HS0": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05596,
+        -0.05596
+      ]
+    },
+    "May Weekday HS1": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04861,
+        -0.04861
+      ]
+    },
+    "May Weekday HS10": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02507,
+        -0.02507
+      ]
+    },
+    "May Weekday HS11": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02417,
+        -0.02417
+      ]
+    },
+    "May Weekday HS12": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.0228,
+        -0.0228
+      ]
+    },
+    "May Weekday HS13": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02069,
+        -0.02069
+      ]
+    },
+    "May Weekday HS14": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02064,
+        -0.02064
+      ]
+    },
+    "May Weekday HS15": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.01939,
+        -0.01939
+      ]
+    },
+    "May Weekday HS16": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.02144,
+        -0.02144
+      ]
+    },
+    "May Weekday HS17": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.03663,
+        -0.03663
+      ]
+    },
+    "May Weekday HS18": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05819,
+        -0.05819
+      ]
+    },
+    "May Weekday HS19": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05704,
+        -0.05704
+      ]
+    },
+    "May Weekday HS2": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04858,
+        -0.04858
+      ]
+    },
+    "May Weekday HS20": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05923,
+        -0.05923
+      ]
+    },
+    "May Weekday HS21": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05687,
+        -0.05687
+      ]
+    },
+    "May Weekday HS22": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05599,
+        -0.05599
+      ]
+    },
+    "May Weekday HS23": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.04566,
+        -0.04566
+      ]
+    },
+    "May Weekday HS3": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04754,
+        -0.04754
+      ]
+    },
+    "May Weekday HS4": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04924,
+        -0.04924
+      ]
+    },
+    "May Weekday HS5": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05383,
+        -0.05383
+      ]
+    },
+    "May Weekday HS6": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05461,
+        -0.05461
+      ]
+    },
+    "May Weekday HS7": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03476,
+        -0.03476
+      ]
+    },
+    "May Weekday HS8": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02713,
+        -0.02713
+      ]
+    },
+    "May Weekday HS9": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.02641,
+        -0.02641
+      ]
+    },
+    "May Weekend HS0": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04985,
+        -0.04985
+      ]
+    },
+    "May Weekend HS1": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.0469,
+        -0.0469
+      ]
+    },
+    "May Weekend HS10": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00847,
+        -0.00847
+      ]
+    },
+    "May Weekend HS11": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00885,
+        -0.00885
+      ]
+    },
+    "May Weekend HS12": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00922,
+        -0.00922
+      ]
+    },
+    "May Weekend HS13": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00948,
+        -0.00948
+      ]
+    },
+    "May Weekend HS14": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00618,
+        -0.00618
+      ]
+    },
+    "May Weekend HS15": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.0044,
+        -0.0044
+      ]
+    },
+    "May Weekend HS16": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.00376,
+        -0.00376
+      ]
+    },
+    "May Weekend HS17": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.01083,
+        -0.01083
+      ]
+    },
+    "May Weekend HS18": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.0607,
+        -0.0607
+      ]
+    },
+    "May Weekend HS19": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05148,
+        -0.05148
+      ]
+    },
+    "May Weekend HS2": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04031,
+        -0.04031
+      ]
+    },
+    "May Weekend HS20": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05323,
+        -0.05323
+      ]
+    },
+    "May Weekend HS21": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05055,
+        -0.05055
+      ]
+    },
+    "May Weekend HS22": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05076,
+        -0.05076
+      ]
+    },
+    "May Weekend HS23": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05424,
+        -0.05424
+      ]
+    },
+    "May Weekend HS3": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03288,
+        -0.03288
+      ]
+    },
+    "May Weekend HS4": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03337,
+        -0.03337
+      ]
+    },
+    "May Weekend HS5": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03538,
+        -0.03538
+      ]
+    },
+    "May Weekend HS6": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03107,
+        -0.03107
+      ]
+    },
+    "May Weekend HS7": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00855,
+        -0.00855
+      ]
+    },
+    "May Weekend HS8": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00855,
+        -0.00855
+      ]
+    },
+    "May Weekend HS9": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.00842,
+        -0.00842
+      ]
+    },
+    "Nov Weekday HS0": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04652,
+        -0.04652
+      ]
+    },
+    "Nov Weekday HS1": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04676,
+        -0.04676
+      ]
+    },
+    "Nov Weekday HS10": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04905,
+        -0.04905
+      ]
+    },
+    "Nov Weekday HS11": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04891,
+        -0.04891
+      ]
+    },
+    "Nov Weekday HS12": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04836,
+        -0.04836
+      ]
+    },
+    "Nov Weekday HS13": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04983,
+        -0.04983
+      ]
+    },
+    "Nov Weekday HS14": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05009,
+        -0.05009
+      ]
+    },
+    "Nov Weekday HS15": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05296,
+        -0.05296
+      ]
+    },
+    "Nov Weekday HS16": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05529,
+        -0.05529
+      ]
+    },
+    "Nov Weekday HS17": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05259,
+        -0.05259
+      ]
+    },
+    "Nov Weekday HS18": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05196,
+        -0.05196
+      ]
+    },
+    "Nov Weekday HS19": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05302,
+        -0.05302
+      ]
+    },
+    "Nov Weekday HS2": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04626,
+        -0.04626
+      ]
+    },
+    "Nov Weekday HS20": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05393,
+        -0.05393
+      ]
+    },
+    "Nov Weekday HS21": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05479,
+        -0.05479
+      ]
+    },
+    "Nov Weekday HS22": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.04883,
+        -0.04883
+      ]
+    },
+    "Nov Weekday HS23": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.04799,
+        -0.04799
+      ]
+    },
+    "Nov Weekday HS3": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04582,
+        -0.04582
+      ]
+    },
+    "Nov Weekday HS4": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04611,
+        -0.04611
+      ]
+    },
+    "Nov Weekday HS5": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04706,
+        -0.04706
+      ]
+    },
+    "Nov Weekday HS6": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04966,
+        -0.04966
+      ]
+    },
+    "Nov Weekday HS7": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04941,
+        -0.04941
+      ]
+    },
+    "Nov Weekday HS8": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04954,
+        -0.04954
+      ]
+    },
+    "Nov Weekday HS9": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05019,
+        -0.05019
+      ]
+    },
+    "Nov Weekend HS0": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04562,
+        -0.04562
+      ]
+    },
+    "Nov Weekend HS1": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04444,
+        -0.04444
+      ]
+    },
+    "Nov Weekend HS10": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03552,
+        -0.03552
+      ]
+    },
+    "Nov Weekend HS11": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03614,
+        -0.03614
+      ]
+    },
+    "Nov Weekend HS12": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03583,
+        -0.03583
+      ]
+    },
+    "Nov Weekend HS13": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03516,
+        -0.03516
+      ]
+    },
+    "Nov Weekend HS14": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03908,
+        -0.03908
+      ]
+    },
+    "Nov Weekend HS15": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.04611,
+        -0.04611
+      ]
+    },
+    "Nov Weekend HS16": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.0533,
+        -0.0533
+      ]
+    },
+    "Nov Weekend HS17": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05719,
+        -0.05719
+      ]
+    },
+    "Nov Weekend HS18": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05639,
+        -0.05639
+      ]
+    },
+    "Nov Weekend HS19": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05669,
+        -0.05669
+      ]
+    },
+    "Nov Weekend HS2": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04389,
+        -0.04389
+      ]
+    },
+    "Nov Weekend HS20": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05533,
+        -0.05533
+      ]
+    },
+    "Nov Weekend HS21": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05355,
+        -0.05355
+      ]
+    },
+    "Nov Weekend HS22": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05086,
+        -0.05086
+      ]
+    },
+    "Nov Weekend HS23": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05168,
+        -0.05168
+      ]
+    },
+    "Nov Weekend HS3": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04324,
+        -0.04324
+      ]
+    },
+    "Nov Weekend HS4": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04348,
+        -0.04348
+      ]
+    },
+    "Nov Weekend HS5": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04359,
+        -0.04359
+      ]
+    },
+    "Nov Weekend HS6": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04359,
+        -0.04359
+      ]
+    },
+    "Nov Weekend HS7": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03536,
+        -0.03536
+      ]
+    },
+    "Nov Weekend HS8": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.0346,
+        -0.0346
+      ]
+    },
+    "Nov Weekend HS9": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03531,
+        -0.03531
+      ]
+    },
+    "Oct Weekday HS0": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05231,
+        -0.05231
+      ]
+    },
+    "Oct Weekday HS1": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.0472,
+        -0.0472
+      ]
+    },
+    "Oct Weekday HS10": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04858,
+        -0.04858
+      ]
+    },
+    "Oct Weekday HS11": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04831,
+        -0.04831
+      ]
+    },
+    "Oct Weekday HS12": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04809,
+        -0.04809
+      ]
+    },
+    "Oct Weekday HS13": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04783,
+        -0.04783
+      ]
+    },
+    "Oct Weekday HS14": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04808,
+        -0.04808
+      ]
+    },
+    "Oct Weekday HS15": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.04934,
+        -0.04934
+      ]
+    },
+    "Oct Weekday HS16": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05619,
+        -0.05619
+      ]
+    },
+    "Oct Weekday HS17": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05564,
+        -0.05564
+      ]
+    },
+    "Oct Weekday HS18": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05099,
+        -0.05099
+      ]
+    },
+    "Oct Weekday HS19": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05085,
+        -0.05085
+      ]
+    },
+    "Oct Weekday HS2": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04739,
+        -0.04739
+      ]
+    },
+    "Oct Weekday HS20": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05105,
+        -0.05105
+      ]
+    },
+    "Oct Weekday HS21": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05182,
+        -0.05182
+      ]
+    },
+    "Oct Weekday HS22": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05034,
+        -0.05034
+      ]
+    },
+    "Oct Weekday HS23": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.04862,
+        -0.04862
+      ]
+    },
+    "Oct Weekday HS3": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04715,
+        -0.04715
+      ]
+    },
+    "Oct Weekday HS4": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04699,
+        -0.04699
+      ]
+    },
+    "Oct Weekday HS5": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04726,
+        -0.04726
+      ]
+    },
+    "Oct Weekday HS6": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04855,
+        -0.04855
+      ]
+    },
+    "Oct Weekday HS7": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.05266,
+        -0.05266
+      ]
+    },
+    "Oct Weekday HS8": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04928,
+        -0.04928
+      ]
+    },
+    "Oct Weekday HS9": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04868,
+        -0.04868
+      ]
+    },
+    "Oct Weekend HS0": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04772,
+        -0.04772
+      ]
+    },
+    "Oct Weekend HS1": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04644,
+        -0.04644
+      ]
+    },
+    "Oct Weekend HS10": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03612,
+        -0.03612
+      ]
+    },
+    "Oct Weekend HS11": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.0371,
+        -0.0371
+      ]
+    },
+    "Oct Weekend HS12": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03581,
+        -0.03581
+      ]
+    },
+    "Oct Weekend HS13": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03374,
+        -0.03374
+      ]
+    },
+    "Oct Weekend HS14": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03403,
+        -0.03403
+      ]
+    },
+    "Oct Weekend HS15": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.03609,
+        -0.03609
+      ]
+    },
+    "Oct Weekend HS16": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.04121,
+        -0.04121
+      ]
+    },
+    "Oct Weekend HS17": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.09919,
+        -0.09919
+      ]
+    },
+    "Oct Weekend HS18": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05925,
+        -0.05925
+      ]
+    },
+    "Oct Weekend HS19": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.0582,
+        -0.0582
+      ]
+    },
+    "Oct Weekend HS2": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04462,
+        -0.04462
+      ]
+    },
+    "Oct Weekend HS20": {
+      "from_grid": 0.40551,
+      "to_grid": [
+        -0.05793,
+        -0.05793
+      ]
+    },
+    "Oct Weekend HS21": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05778,
+        -0.05778
+      ]
+    },
+    "Oct Weekend HS22": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.05646,
+        -0.05646
+      ]
+    },
+    "Oct Weekend HS23": {
+      "from_grid": 0.38342,
+      "to_grid": [
+        -0.04954,
+        -0.04954
+      ]
+    },
+    "Oct Weekend HS3": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04431,
+        -0.04431
+      ]
+    },
+    "Oct Weekend HS4": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04287,
+        -0.04287
+      ]
+    },
+    "Oct Weekend HS5": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04217,
+        -0.04217
+      ]
+    },
+    "Oct Weekend HS6": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04366,
+        -0.04366
+      ]
+    },
+    "Oct Weekend HS7": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.04126,
+        -0.04126
+      ]
+    },
+    "Oct Weekend HS8": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.03597,
+        -0.03597
+      ]
+    },
+    "Oct Weekend HS9": {
+      "from_grid": 0.36956,
+      "to_grid": [
+        -0.0358,
+        -0.0358
+      ]
+    },
+    "Sep Weekday HS0": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05279,
+        -0.05279
+      ]
+    },
+    "Sep Weekday HS1": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04817,
+        -0.04817
+      ]
+    },
+    "Sep Weekday HS10": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04938,
+        -0.04938
+      ]
+    },
+    "Sep Weekday HS11": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04901,
+        -0.04901
+      ]
+    },
+    "Sep Weekday HS12": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.0491,
+        -0.0491
+      ]
+    },
+    "Sep Weekday HS13": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04994,
+        -0.04994
+      ]
+    },
+    "Sep Weekday HS14": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04832,
+        -0.04832
+      ]
+    },
+    "Sep Weekday HS15": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.04918,
+        -0.04918
+      ]
+    },
+    "Sep Weekday HS16": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.05577,
+        -0.05577
+      ]
+    },
+    "Sep Weekday HS17": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.06783,
+        -0.06783
+      ]
+    },
+    "Sep Weekday HS18": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -3.40693,
+        -3.40693
+      ]
+    },
+    "Sep Weekday HS19": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -3.84015,
+        -3.84015
+      ]
+    },
+    "Sep Weekday HS2": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04781,
+        -0.04781
+      ]
+    },
+    "Sep Weekday HS20": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.18528,
+        -0.18528
+      ]
+    },
+    "Sep Weekday HS21": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.05846,
+        -0.05846
+      ]
+    },
+    "Sep Weekday HS22": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.05641,
+        -0.05641
+      ]
+    },
+    "Sep Weekday HS23": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.05031,
+        -0.05031
+      ]
+    },
+    "Sep Weekday HS3": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04738,
+        -0.04738
+      ]
+    },
+    "Sep Weekday HS4": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.047,
+        -0.047
+      ]
+    },
+    "Sep Weekday HS5": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04747,
+        -0.04747
+      ]
+    },
+    "Sep Weekday HS6": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05147,
+        -0.05147
+      ]
+    },
+    "Sep Weekday HS7": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.05124,
+        -0.05124
+      ]
+    },
+    "Sep Weekday HS8": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.0487,
+        -0.0487
+      ]
+    },
+    "Sep Weekday HS9": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04922,
+        -0.04922
+      ]
+    },
+    "Sep Weekend HS0": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.0508,
+        -0.0508
+      ]
+    },
+    "Sep Weekend HS1": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04954,
+        -0.04954
+      ]
+    },
+    "Sep Weekend HS10": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03906,
+        -0.03906
+      ]
+    },
+    "Sep Weekend HS11": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03858,
+        -0.03858
+      ]
+    },
+    "Sep Weekend HS12": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03772,
+        -0.03772
+      ]
+    },
+    "Sep Weekend HS13": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03611,
+        -0.03611
+      ]
+    },
+    "Sep Weekend HS14": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03646,
+        -0.03646
+      ]
+    },
+    "Sep Weekend HS15": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.03928,
+        -0.03928
+      ]
+    },
+    "Sep Weekend HS16": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.0454,
+        -0.0454
+      ]
+    },
+    "Sep Weekend HS17": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.07032,
+        -0.07032
+      ]
+    },
+    "Sep Weekend HS18": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -2.99242,
+        -2.99242
+      ]
+    },
+    "Sep Weekend HS19": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -3.3659,
+        -3.3659
+      ]
+    },
+    "Sep Weekend HS2": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04765,
+        -0.04765
+      ]
+    },
+    "Sep Weekend HS20": {
+      "from_grid": 0.63702,
+      "to_grid": [
+        -0.17075,
+        -0.17075
+      ]
+    },
+    "Sep Weekend HS21": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.06225,
+        -0.06225
+      ]
+    },
+    "Sep Weekend HS22": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.05995,
+        -0.05995
+      ]
+    },
+    "Sep Weekend HS23": {
+      "from_grid": 0.47514,
+      "to_grid": [
+        -0.05244,
+        -0.05244
+      ]
+    },
+    "Sep Weekend HS3": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04747,
+        -0.04747
+      ]
+    },
+    "Sep Weekend HS4": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04584,
+        -0.04584
+      ]
+    },
+    "Sep Weekend HS5": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04423,
+        -0.04423
+      ]
+    },
+    "Sep Weekend HS6": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04519,
+        -0.04519
+      ]
+    },
+    "Sep Weekend HS7": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.04172,
+        -0.04172
+      ]
+    },
+    "Sep Weekend HS8": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03657,
+        -0.03657
+      ]
+    },
+    "Sep Weekend HS9": {
+      "from_grid": 0.41846,
+      "to_grid": [
+        -0.03924,
+        -0.03924
+      ]
+    }
+  },
+  "source_limit": false
+}

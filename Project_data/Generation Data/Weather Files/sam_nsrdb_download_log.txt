@@ -1,0 +1,19 @@
+NSRDB Download Sun Feb 25 17:19:25 2024
+==========================================================
+
+Requested location(s): [ sunnyvale, ca ]
+
+Location 1 of 1: "sunnyvale, ca"
+----------------------------------------------------------
+
+Requested year(s): [ 2018 ]
+
+File 1 of 1: 2018
+----------------------------------------------------------
+
+https://developer.nrel.gov/api/nsrdb/v2/solar/psm3-2-2-download.csv?api_key=<SAMAPIKEY>&full_name=sam_user&email=<USEREMAIL>&affiliation=unknown&mailing_list=false&reason=SAM&interval=60&utc=false&leap_day=false&attributes=dni,dhi,ghi,dew_point,air_temperature,surface_pressure,relative_humidity,wind_direction,wind_speed,surface_albedo&names=2018&wkt=POINT(-122.037%2037.3719)
+
+Download time: 6.385 seconds.
+
+Weather file test passed: /Users/dandrusch/SAM Downloaded Weather Files/sunnyvale_ca_37.3719_-122.037_psm3-2-2_60_2018.csv.
+
